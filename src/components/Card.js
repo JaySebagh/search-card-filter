@@ -1,7 +1,6 @@
 import React from "react";
 import '../styles/card.css';
-// {data.github}
-// {data.demo}
+
 const Card = ({ data } ) => {
     return(
         <div className="card">

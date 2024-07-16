@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
-import DATA from './data.json';
+import './styles/app.css';
+import DATA from './components/data.json';
+import Card from './components/Card';
 
 function App() {
   const [search, setSearch] = useState("");
-
   return (
-    <div>
+    <div className='project-container'>
       <input
         type='text'
         placeholder='search...'
@@ -13,14 +14,13 @@ function App() {
         onChange={(e) => setSearch(e.target.value)}
       />
 
-      <div>
-        <ul>
+      <div className='card-container'>
           {DATA.filter((item) =>
             item.title.toLowerCase().includes(search.toLowerCase())
           ).map((data, index) => (
-            <li key={index}>{data.title}</li>
+            // console.log(data)
+            <Card key={index} data={data}/>
           ))}
-        </ul>
       </div>
     </div>
   );

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "my project",
+        "bio": "Donec ex nunc, placerat et efficitur et, imperdiet sit amet lacus. Sed id velit nec mauris pharetra varius. Etiam sit amet mi vel lacus scelerisque aliquam in a justo. Cras quis finibus nibh, nec finibus libero. Ut bibendum mi sed turpis condimentum, id venenatis dui pulvinar. Quisque et nulla molestie, posuere nisl at, cursus turpis. Proin vel lorem pulvinar, luctus libero vitae, gravida nisl. Maecenas pharetra sed nisi id malesuada. Donec sit amet dapibus justo. Cras pellentesque ex ut nunc pulvinar fermentum. Curabitur in augue sit amet massa tempor scelerisque in ac magna. Ut vitae facilisis neque, sed vehicula metus. Sed erat justo, hendrerit vel enim id, sagittis finibus neque. In hac habitasse platea dictumst. Aenean sed vulputate lectus. ",
+        "url": "../assets/images/one.jpg",
+        "stack": "React.JS, CSS",
+        "github": "example.com",
+        "demo": "example.com"
+    },
+    {
+        "id": 2,
+        "title": "real world",
+        "bio": "Donec pellentesque ex ut scelerisque vehicula. Integer sit amet faucibus purus, a volutpat nulla. Nunc quis est eget felis fermentum fermentum. Nam finibus elit et magna suscipit sagittis. Integer nec vestibulum arcu. Etiam facilisis leo vel erat ultricies tincidunt. Nunc eu gravida nisi, fermentum vulputate diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi non fringilla lectus. Morbi id dolor posuere, eleifend nunc quis, auctor ante. Vivamus laoreet, nibh vitae pulvinar vehicula, ex odio mattis ipsum, tristique volutpat sapien eros consequat felis. Sed eget ornare nisl. Suspendisse a ultrices ligula. ",
+        "url": "../assets/images/two.jpg",
+        "stack": "Next.JS, SASS",
+        "github": "example.com",
+        "demo": "example.com"
+    },
+    {
+        "id": 3,
+        "title": "team building",
+        "bio": "Quisque metus ex, dignissim scelerisque odio et, posuere bibendum orci. Nullam imperdiet ante vulputate elit blandit, tempor varius velit sollicitudin. Vestibulum tempor turpis ante, eget porttitor arcu pellentesque in. Sed elementum diam vitae nulla condimentum, in semper justo feugiat. Vestibulum vel laoreet mauris. Nam ac dui vel nisl aliquet pellentesque. Etiam nulla velit, accumsan sit amet tincidunt ac, tristique non turpis. Vestibulum ante purus, ultricies a nulla at, iaculis volutpat magna. Nulla eu ipsum a ante mollis condimentum id gravida ipsum. ",
+        "url": "../assets/images/three.jpg",
+        "stack": "React.JS, Redux, Python, Prismic, Jupyter",
+        "github": "example.com",
+        "demo": "example.com"
+    },
+    {
+        "id": 4,
+        "title": "solo project",
+        "bio": "Pellentesque finibus et felis sed hendrerit. Aenean at maximus nibh. Donec elementum nisi vel quam euismod feugiat. Morbi nunc sapien, blandit sit amet turpis eget, malesuada scelerisque massa. Nunc rhoncus, turpis quis aliquet eleifend, orci lorem dapibus nibh, molestie dictum arcu lorem ut erat. Morbi quam diam, maximus ac erat in, finibus fermentum diam. Nulla id augue felis. Donec sodales quis augue nec molestie. Morbi ac mi suscipit, tristique lectus at, dictum ligula. Praesent consectetur neque non massa hendrerit, et pellentesque odio fermentum. Maecenas sodales dapibus metus, at ullamcorper neque maximus eu. Integer a magna sit amet velit aliquet fringilla at nec velit. Nulla et pellentesque purus. Nam vehicula in est sed feugiat. Nunc tempor nulla nec finibus tincidunt. Sed massa neque, cursus et sollicitudin in, molestie in felis. ",
+        "url": "../assets/images/four.jpg",
+        "stack": "React.JS, Node.JS, Hooks, Python, SASS",
+        "github": "example.com",
+        "demo": "example.com"
+    },
+    {
+        "id": 5,
+        "title": "card search filter",
+        "bio": " Duis fringilla dolor vel dolor ultricies, viverra vulputate lectus sagittis. Fusce at metus nulla. Nulla facilisi. Maecenas luctus enim id ullamcorper scelerisque. Praesent sodales, elit a tincidunt commodo, ipsum orci accumsan est, id ultrices ligula ligula at lectus. Mauris sed volutpat felis. Curabitur efficitur ligula est, nec hendrerit purus malesuada eget.",
+        "url": "../assets/images/five.jpg",
+        "stack": "React.JS, CSS",
+        "github": "example.com",
+        "demo": "example.com"
+    },
+    {
+        "id": 6,
+        "title": "final project",
+        "bio": "Integer quis ante sit amet massa pharetra pulvinar in quis elit. Cras rhoncus maximus lacus sit amet maximus. Aliquam neque augue, euismod a suscipit vel, tempus id lacus. Maecenas tincidunt quam at vehicula faucibus. Aenean lacinia enim nec convallis porttitor. Pellentesque vestibulum ante sem, vel bibendum nisl varius at. Aliquam aliquam est eu porttitor tristique. Nullam in tincidunt nibh. Praesent molestie, felis sed ultricies tincidunt, velit tortor viverra libero, at rhoncus enim sem eget justo. Donec eu magna nec diam lobortis mattis consequat at velit. Etiam suscipit lacinia scelerisque. ",
+        "url": "../assets/images/six.jpg",
+        "stack": "React.JS, CSS",
+        "github": "example.com",
+        "demo": "example.com"
+    }
+]
